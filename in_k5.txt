@@ -6,3 +6,9 @@ var z = function() {
 
 		//added more amazing stuff to in_k5 but on k11 branch
 }
+=======
+
+var y = function() {
+	//really amazing crap added in k13 branch
+}
+>>>>>>> .merge_file_a43204
